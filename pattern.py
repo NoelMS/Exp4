@@ -8,4 +8,4 @@ def main():
         l.append(input('Enter number of * to print: '))
     pattern(l)
 main()
-#code works 
+#code updated
